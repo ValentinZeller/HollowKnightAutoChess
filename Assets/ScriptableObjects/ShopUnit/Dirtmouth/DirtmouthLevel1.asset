@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 871400e3cdd4611439dedba7ba64d414, type: 3}
+  m_Name: DirtmouthLevel1
+  m_EditorClassIdentifier: 
+  description: 
+  unitList:
+  - {fileID: 4416717178469744189, guid: a38c363b876c59143a0635e51d1701b1, type: 3}
+  - {fileID: 3007920523466692315, guid: 22075d092af61094b9148648daf35abf, type: 3}
+  - {fileID: 102666363720090484, guid: 39414acd88947774d80190804bcaf645, type: 3}
